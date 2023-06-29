@@ -1,0 +1,30 @@
+.d {
+  width: 150px;
+  height: 150px;
+  border-radius: 20px;
+  background-color: white;
+  margin-top: 200px;
+  margin-left: 300px;
+}
+
+body {
+  background-color: blueviolet;
+  color: white;
+}
+
+.d1 {
+  font-size: 40px;
+  margin-left: 940px;
+  margin-top: -110px;
+}
+
+.b1 {
+  margin-left: 580px;
+  margin-top: 20px;
+  background-color: blueviolet;
+  border-radius: 20px;
+  font-size: 35px;
+  padding: 20px;
+  color: white;
+  border-color: white;
+}
